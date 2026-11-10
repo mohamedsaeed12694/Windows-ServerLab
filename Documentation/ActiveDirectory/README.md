@@ -75,34 +75,42 @@ Active Directory Domain Services (AD DS) deployed on Windows Server 2025.
 1. Server Manager - PDC
 
 Initial server configuration and installed roles.
+
 Screenshots/AD/01-Server-Manager.png
 
 
 2. Local Server Configuration
+
 Screenshots/AD/02-Local-Server-.png
 
 
 3. Active Directory Users and Computers
+
 Screenshots/AD/03-Active-Directory-User&Computer.png
 
 
 4. Organizational Units
-Screenshots/AD/04-OU-Groups.png
+
+[View OU Groups Screenshot](../Screenshots/AD/04-OU-Groups.png)
 
 
 5. Accounting Department
+
 Screenshots/AD/05-Users&PCs-ACC-OU.png
 
 
 6. HR Department
+
 Screenshots/AD/06-Users&PCs-HR-OU.png
 
 
 7. HSE Department
+
 Screenshots/AD/07-Users&PCs-HSE-OU.png
 
 
 8. IT Department
+
 Screenshots/AD/08-Users&PCs-IT-OU.png
 
 
