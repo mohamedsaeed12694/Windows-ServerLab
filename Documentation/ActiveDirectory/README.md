@@ -91,7 +91,7 @@ Screenshots/AD/03-Active-Directory-User&Computer.png
 
 4. Organizational Units
 
-[View OU Groups Screenshot](../Screenshots/AD/04-OU-Groups.png)
+![OU Groups](../Screenshots/AD/04-OU-Groups.png)
 
 
 5. Accounting Department
