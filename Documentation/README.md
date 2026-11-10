@@ -7,7 +7,7 @@ This project simulates a real enterprise environment using Windows Server 2025.
 ## Environment
 
 - Windows Server 2025 PDC
-- Windows Server 2025 ADC (Planned)
+- Windows Server 2025 ADC
 - Windows Server 2025 Core
 - Windows 10 Client
 - Windows 11 Client
