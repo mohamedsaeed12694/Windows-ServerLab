@@ -57,7 +57,7 @@ A DHCP reservation is configured for the Manager device.
 
 ### 1. DHCP Server Installation
 
-![DHCP Server Installation](../Screenshots/DHCP/01-Install-DHCP.png)
+![DHCP Server Installation](..Documentation/Screenshots/DHCP/01-Install-DHCP.png)
 ![DHCP Server Installation](../Screenshots/DHCP/02-Install-DHCP.png)
 
 ### 2. DHCP Scope Configuration
