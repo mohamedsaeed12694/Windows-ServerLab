@@ -31,13 +31,13 @@ Active Directory Domain Services (AD DS) deployed on Windows Server 2025.
 
 ## Security Groups
 
-- IT_Group
-- HR_Group
-- ACC_Group
-- Purchase_Group
-- OPS_Group
-- HSE_Group
-- Management_Group
+- IT-Group
+- HR-Group
+- ACC-Group
+- Purchase-Group
+- OPS-Group
+- HSE-Group
+- Management-Group
 
 ## Users
 
@@ -52,7 +52,24 @@ Active Directory Domain Services (AD DS) deployed on Windows Server 2025.
 
 ### ACC
 - Ahmed Khaled
-- ...
+- Mohamed Nageeb
+- Yasser Mohamed
+
+### Purchase
+- Mohamed Essa
+- Youstina Magdy
+
+### OPS
+- Omar Afifi
+- Mennallah Ahmed
+- Sondos Emad
+
+### HSE
+- Ahmed Fahmy
+- Abdallah Salem
+
+### Management
+- Amr Khaled
 
 ## Screenshots
 
