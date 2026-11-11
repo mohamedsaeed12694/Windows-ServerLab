@@ -28,7 +28,8 @@ This project simulates a real enterprise environment using Windows Server 2025.
 - [x] DNS
 - [x] Organizational Units
 - [x] Users & Groups
-- [ ] DHCP
+- [x] IIS
+- [x] DHCP
 - [ ] Group Policy
 - [ ] File Server
 - [ ] Print Server
