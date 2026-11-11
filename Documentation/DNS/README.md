@@ -10,11 +10,15 @@ DNS Server role installed on Windows Server 2025.
 | Server Name | PDC01 |
 | IP Address | 192.168.1.2 |
 | IP Address | 192.168.1.3 |
-| Domain | mohamed.local |
+| Primary Domain | mohamed.local |
 
 ## Forward Lookup Zone
 
 mohamed.local
+
+## Reverse Lookup Zone
+
+192.168.1.2
 
 ## DNS Records
 
